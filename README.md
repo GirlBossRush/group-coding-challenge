@@ -8,27 +8,17 @@ New developers can learn how to code from TDD (that's an extra), and experienced
 
 Surprisingly, new developers, the less experienced ones use to provide more great ideas than experienced developers.
 
-## Tower of Hanoi
-
-### Rules
-
-1. Only one disk can be moved at a time.
-2. Each move consists of taking the upper disk from one of the stacks and placing it on top of another stack i.e. a disk can only be moved if it is the uppermost disk on a stack.
-3. No disk may be placed on top of a smaller disk.
-
-Source: https://en.wikipedia.org/wiki/Tower_of_Hanoi
-
 ## How to Coding Dojo
 
 More information here: http://www.codingdojo.org/
 
-The basics are: everyone decide a problem/app/thing they want to create or solve, the Tower of Hanoi is just one example.
+The basics are: everyone decide a problem/app/thing they want to create or solve.
 
 You have 1 computer attached to 1 big screen that everyone else can see. You need 1 pilot and 1 co-pilot. Only the pilot can touch the computer, the co-pilot just talk to him or to everyone else. The co-pilot can have a cake to keep his hands busy. The crowd can talk to the co-pilot if necessary.
 
 The pilot needs to:
 
-1. Write a test that fail, just a single test. (Red)
+1. Write a test that fails, just a single test. (Red)
 2. Write code to make that test pass. (Green)
 3. Refactor that code.
 
